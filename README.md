@@ -4,4 +4,4 @@
 
 ### <p style="text-decoration:underline" align="center">Parcours : <br/> <img src="./dn-parcours.png" height="90%" width="90%" /></p>
 
-### <u>Parcours :</u>
+### <ins>text</ins>
