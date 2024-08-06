@@ -102,8 +102,6 @@
     <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Apache_Subversion_logo.svg/1200px-Apache_Subversion_logo.svg.png" />
 </div>
 
-</br>
-
 #
 
 <p align="center">2024 @ NOLLE Damien</p>
