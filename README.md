@@ -1,6 +1,6 @@
 # <p align="center">Bienvenue ! 👋</p>
 
-<p align="justify">Je m'appelle NOLLE Damien et je suis un étudiant en première année de Master Informatique, spécialité "Génie de l'Informatique Logicielle" (GIL), à l'université de Rouen. Mon objectif est de devenir développeur en informatique dans n'importe quel domaine impliquant le développement de logiciels, d'applications ou de sites web.</p>
+<p align="justify">Je m'appelle NOLLE Damien et je suis un étudiant en première année de Master Informatique, spécialité "Informatique Avancée et Applications" (I2A), en parcours professionnel, à l'Université de Besançon. Mon objectif est de devenir développeur en informatique dans n'importe quel domaine impliquant le développement de logiciels, d'applications ou de sites web.</p>
 
 ### <p align="center"><ins>Parcours :</ins> <br/> <img src="./dn-parcours.png" height="90%" width="90%" /></p>
 
@@ -47,9 +47,15 @@
     <img width="5" />
     <img height="60" src="./reactjs-logo.png" />
     <img width="5" />
+    <img height="60" src="./material-ui-logo.png" />
+    <img width="5" />
     <img height="60" src="./angular-logo.png" />
     <img width="5" />
+    <img height="60" src="./angular-mui-logo.png" />
+    <img width="5" />
     <img height="60" src="./bootstrap-logo.png" />
+    <img width="5" />
+    <img height="60" src="./vite-logo.png" />
 </div>
 
 </br>
@@ -98,10 +104,36 @@
 
 <div align="center">
     <img height="60" src="./github-logo.png" />
-    <img width="10" />
+    <img width="5" />
     <img height="60" src="./svn-logo.png" />
 </div>
 
+</br>
+
+### <p align="center"><ins>Environnement de développement/IDE :</ins></p>
+
+<div align="center">
+    <img height="60" src="./docker-logo.png" />
+    <img width="5" />
+    <img height="60" src="./vs-code-logo.png" />
+    <img width="5" />
+    <img height="60" src="./vs-logo.png" />
+    <img width="5" />
+    <img height="60" src="./codeblocks-logo.png" />
+    <img width="5" />
+    <img height="60" src="./wampserver-logo.png" />
+    <img width="5" />
+    <img height="60" src="./mars-logo.png" />
+    <img width="5" />
+    <img height="60" src="./notepad++-logo.png" />
+    <img width="5" />
+    <img height="60" src="./python-idle-logo.png" />
+    <img width="5" />
+    <img height="60" src="./gitkraken-logo.png" />
+</div>
+
+</br>
+
 #
 
-<p align="center">2024 @ NOLLE Damien</p>
+<p align="center">2025 @ NOLLE Damien</p>
