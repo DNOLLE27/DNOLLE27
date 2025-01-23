@@ -136,4 +136,4 @@
 
 #
 
-<p align="center">2025 @ NOLLE Damien</p>
+<p align="center">2025 © NOLLE Damien</p>
