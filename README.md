@@ -36,6 +36,8 @@
     <img height="60" src="./typescript-logo.png" />
     <img width="5" />
     <img height="60" src="./sass-logo.png" />
+    <img width="5" />
+    <img height="50" src="./xml-logo.png" />
 </div>
 
 </br>
@@ -66,6 +68,8 @@
     <img height="60" src="./nodejs-logo.png" />
     <img width="5" />
     <img height="60" src="./php-logo.png" />
+    <img width="5" />
+    <img height="60" src="./servlet-jsp-jee-logo.png" />
 </div>
 
 </br>
@@ -130,6 +134,10 @@
     <img height="60" src="./python-idle-logo.png" />
     <img width="5" />
     <img height="60" src="./gitkraken-logo.png" />
+    <img width="5" />
+    <img height="60" src="./eclipse-logo.png" />
+    <img width="5" />
+    <img height="50" src="./tomcat-logo.png" />
 </div>
 
 </br>
