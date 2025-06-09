@@ -140,6 +140,8 @@
     <img height="60" src="./eclipse-logo.png" />
     <img width="5" />
     <img height="50" src="./tomcat-logo.png" />
+    <img width="5" />
+    <img height="50" src="./tortoisesvn-logo.png" />
 </div>
 
 </br>
