@@ -58,6 +58,8 @@
     <img height="60" src="./bootstrap-logo.png" />
     <img width="5" />
     <img height="60" src="./vite-logo.png" />
+    <img width="5" />
+    <img height="60" src="./spring-logo.png" />
 </div>
 
 </br>
