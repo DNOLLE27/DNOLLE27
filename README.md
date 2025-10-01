@@ -1,6 +1,6 @@
 # <p align="center">Bienvenue ! 👋</p>
 
-<p align="justify">Je m'appelle NOLLE Damien et je suis un étudiant en première année de Master Informatique, spécialité "Informatique Avancée et Applications" (I2A), en parcours professionnel, à l'Université de Besançon. Mon objectif est de devenir développeur en informatique dans n'importe quel domaine impliquant le développement de logiciels, d'applications ou de sites web.</p>
+<p align="justify">Je m'appelle NOLLE Damien et je suis un étudiant en première année de Master Informatique, spécialité "Informatique Avancée et Applications" (I2A), en parcours professionnel, à l'Université Marie & Louis Pasteur (Besançon). Mon objectif est de devenir développeur en informatique dans n'importe quel domaine impliquant le développement de logiciels, d'applications ou de sites web.</p>
 
 ### <p align="center"><ins>Parcours :</ins> <br/> <img src="./dn-parcours.png"  width="90%" /></p>
 
