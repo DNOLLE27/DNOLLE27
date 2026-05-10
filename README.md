@@ -22,22 +22,24 @@
 
 </br>
 
-### <p align="center"><ins>Langages de développement Web :</ins></p>
+### <p align="center"><ins>Langages/Technologies Web :</ins></p>
 
 <div align="center">
     <img height="60" src="./html-logo.png" />
     <img width="5" />
     <img height="60" src="./css-logo.png" />
     <img width="5" />
-    <img height="60" src="./js-logo.png" />
-    <img width="5" />
-    <img height="60" src="./php-logo.png" />
-    <img width="5" />
-    <img height="60" src="./typescript-logo.png" />
+    <img height="50" src="./xml-logo.png" />
     <img width="5" />
     <img height="60" src="./sass-logo.png" />
     <img width="5" />
-    <img height="50" src="./xml-logo.png" />
+    <img height="60" src="./js-logo.png" />
+    <img width="5" />
+    <img height="60" src="./typescript-logo.png" />
+    <img width="5" />
+    <img height="60" src="./nodejs-logo.png" />
+    <img width="5" />
+    <img height="60" src="./php-logo.png" />
 </div>
 
 </br>
@@ -49,29 +51,7 @@
     <img width="5" />
     <img height="60" src="./reactjs-logo.png" />
     <img width="5" />
-    <img height="60" src="./material-ui-logo.png" />
-    <img width="5" />
     <img height="60" src="./angular-logo.png" />
-    <img width="5" />
-    <img height="60" src="./angular-mui-logo.png" />
-    <img width="5" />
-    <img height="60" src="./bootstrap-logo.png" />
-    <img width="5" />
-    <img height="60" src="./vite-logo.png" />
-    <img width="5" />
-    <img height="60" src="./spring-logo.png" />
-</div>
-
-</br>
-
-### <p align="center"><ins>API :</ins></p>
-
-<div align="center">
-    <img height="60" src="./nodejs-logo.png" />
-    <img width="5" />
-    <img height="60" src="./php-logo.png" />
-    <img width="5" />
-    <img height="60" src="./servlet-jsp-jee-logo.png" />
 </div>
 
 </br>
@@ -98,54 +78,20 @@
 
 </br>
 
-### <p align="center"><ins>CMS :</ins></p>
-
-<div align="center">
-    <img height="60" src="./wordpress-logo.png" />
-</div>
-
-</br>
-
-### <p align="center"><ins>Dépôt :</ins></p>
+### <p align="center"><ins>IDE :</ins></p>
 
 <div align="center">
     <img height="60" src="./github-logo.png" />
     <img width="5" />
     <img height="60" src="./svn-logo.png" />
-</div>
-
-</br>
-
-### <p align="center"><ins>Environnement de développement/IDE :</ins></p>
-
-<div align="center">
+    <img width="5" />
     <img height="60" src="./docker-logo.png" />
-    <img width="5" />
-    <img height="60" src="./vs-code-logo.png" />
-    <img width="5" />
-    <img height="60" src="./vs-logo.png" />
-    <img width="5" />
-    <img height="60" src="./codeblocks-logo.png" />
-    <img width="5" />
-    <img height="60" src="./wampserver-logo.png" />
-    <img width="5" />
-    <img height="60" src="./mars-logo.png" />
-    <img width="5" />
-    <img height="60" src="./notepad++-logo.png" />
-    <img width="5" />
-    <img height="60" src="./python-idle-logo.png" />
-    <img width="5" />
-    <img height="60" src="./gitkraken-logo.png" />
-    <img width="5" />
-    <img height="60" src="./eclipse-logo.png" />
-    <img width="5" />
-    <img height="50" src="./tomcat-logo.png" />
-    <img width="5" />
-    <img height="50" src="./tortoisesvn-logo.png" />
+    <img height="5" />
+    <img height="60" src="./maven-logo.png" />
 </div>
 
 </br>
 
 #
 
-<p align="center">2025 © NOLLE Damien</p>
+<p align="center">2026 © NOLLE Damien</p>
