@@ -22,14 +22,14 @@
 
 </br>
 
-### <p align="center"><ins>Langages/Technologies Web :</ins></p>
+### <p align="center"><ins>Web :</ins></p>
 
 <div align="center">
     <img height="60" src="./html-logo.png" />
     <img width="5" />
-    <img height="60" src="./css-logo.png" />
-    <img width="5" />
     <img height="50" src="./xml-logo.png" />
+    <img width="5" />
+    <img height="60" src="./css-logo.png" />
     <img width="5" />
     <img height="60" src="./sass-logo.png" />
     <img width="5" />
@@ -70,6 +70,14 @@
 
 </br>
 
+### <p align="center"><ins>Informatique graphique :</ins></p>
+
+<div align="center">
+    <img height="85" src="./opengl-logo.png" />
+</div>
+
+</br>
+
 ### <p align="center"><ins>Programmation assembleur :</ins></p>
 
 <div align="center">
@@ -78,7 +86,7 @@
 
 </br>
 
-### <p align="center"><ins>IDE :</ins></p>
+### <p align="center"><ins>Environnement de développement :</ins></p>
 
 <div align="center">
     <img height="60" src="./github-logo.png" />
